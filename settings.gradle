@@ -1,0 +1,4 @@
+rootProject.name = 'modulo2'
+
+include 'moduloImportado'
+project(':moduloImportado').projectDir = new File('C:\\Users\\ISilva\\Desktop\\temp2\\modulo1')
